@@ -19,7 +19,7 @@
 
 Algunos datos sonbre mi:
 
-- 🔭 Estoy trabajando en diversos proyectos que aplican técnicas de Machine Learning para resolver problemas reales.
+- 🔭 Estoy trabajando en diversos proyectos personales que aplican técnicas de ML para resolver problemas reales.
 
 - 🌱 Actualmente, estoy cursando el certificado DP-100 de Azure en Código Facilito, donde profundizo en el aprendizaje automático en la nube.
 
