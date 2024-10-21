@@ -17,6 +17,8 @@
   </a>
 </div>
 
+<hr>
+
 Algunos datos sonbre mi:
 
 - 🔭 Estoy trabajando en diversos proyectos personales que aplican técnicas de ML para resolver problemas reales.
@@ -33,6 +35,7 @@ Algunos datos sonbre mi:
 
 - 🧮 Orden y Estructura: Valoro el orden en mi trabajo, lo que me ayuda a ser más eficiente y claro en mis proyectos.
 
+<hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ibalov&theme=dark&show_icons=true" alt="Maik GitHub stats"></img></center>
 
