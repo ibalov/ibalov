@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&repeat=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Maykoll+Ibañez!;" />
 </h1>
 
-<p align="center">Soy un profesional graduado en DAM y estudiante a distancia de Ingeniería Informática. Además de ser un apasionado por la tecnología 💻, especializado en desarrollo de IA Generativa, modelos RAG, Compuuter Vision y Deep Learning</p>
+<p align="center">Soy un profesional graduado en DAM y estudiante a distancia de Ingeniería Informática. Además de ser un apasionado por la tecnología 💻, especializado en desarrollo de IA Generativa, modelos RAG, Computer Vision y Deep Learning</p>
 <div align="center">
   <a href="www.linkedin.com/in/ibalov">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
@@ -15,14 +15,7 @@
 </div>
 
 ### 🗿 CoreSkills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-i=vscode,java,py,opencv,pytorch,tensorflow,anaconda,typescript,r,mysql,supabase,postgres,github,gitlab,sklearn,fastapi,dotnet,cs,js,docker,npm,vercel,pug,aws,astro" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,java,py,opencv,pytorch,tensorflow,anaconda,typescript,r,mysql,supabase,postgres,github,gitlab,sklearn,fastapi,dotnet,cs,js,docker,npm,vercel,pug,aws,astro)](https://skillicons.dev)
 
 <hr>
 
