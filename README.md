@@ -14,6 +14,13 @@
   </a>
 </div>
 
+### 🗿 CoreSkills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode, java,py,opencv,pytorch,tensorflow,anaconda,typescript,r,mysql,supabase,postgres,github,gitlab,sklearn,fastapi,dotnet,cs,js,docker,npm,vercel,pug,aws,astro" />
+  </a>
+</p>
+
 <hr>
 
 Algunos datos sonbre mi:
