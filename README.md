@@ -4,12 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&repeat=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Maykoll+Ibañez!;" />
 </h1>
 
-<p align="center">Soy un profesional, graduado en DAM, apasionado por la tecnología 💻, especializado en ciencia de datos 📊. Mi objetivo es aplicar Big Data para optimizar procesos productivos y promover un futuro sostenible 🌍. </p>
-
-<p align="center">Me destaco por mi capacidad analítica y enfoque en encontrar soluciones innovadoras a problemas complejos 📍. Estoy siempre en busca de oportunidades para implementar estrategias de inteligencia de negocios que generen impacto positivo 📈.</p>
-
+<p align="center">Soy un profesional graduado en DAM y estudiante a distancia de Ingeniería Informática. Además de ser un apasionado por la tecnología 💻, especializado en desarrollo de IA Generativa, modelos RAG, Compuuter Vision y Deep Learning</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/maykoll-ibalov/">
+  <a href="www.linkedin.com/in/ibalov">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
   </a>
   <a href='mailto:ibalov1510@gmail.com'>
@@ -21,19 +18,15 @@
 
 Algunos datos sonbre mi:
 
-- 🔭 Estoy trabajando en diversos proyectos personales que aplican técnicas de ML para resolver problemas reales.
+- En mi trabajo, desarrollé un modelo RAG end to end para mejorar los tiempos de migración de proyectos legacy.
 
-- 🌱 Actualmente, estoy cursando el certificado DP-100 de Azure en Código Facilito, donde profundizo en el aprendizaje automático en la nube.
+- Estoy desarrollando dos proyectos ambiciosos para entrenar mi propio LLM y otro sobre Computer Vision.
 
-- 🤖 He completado el curso de IBM Data Science Professional Certificate a través de Coursera, donde adquirí habilidades fundamentales en análisis de datos y modelado.
+- Actualmente, estoy preparandome la certificación de AWS Certified Cloud Practitioner.
 
-- 📈 He superado con éxito el Google Data Analytics Professional Certificate, lo que me ha permitido desarrollar competencias en visualización y análisis de datos.
+- He completado el curso de IBM Data Science Professional Certificate a través de Coursera, donde adquirí habilidades fundamentales en análisis de datos y modelado.
 
-- 🗣 Me encanta socializar y trabajar en equipo, siempre buscando colaborar y aprender de los demás.
-
-- ⚽ Soy un entusiasta de los deportes al aire libre y la naturaleza
-
-- 🧮 Orden y Estructura: Valoro el orden en mi trabajo, lo que me ayuda a ser más eficiente y claro en mis proyectos.
+- He superado con éxito el Google Data Analytics Professional Certificate, lo que me ha permitido desarrollar competencias en visualización y análisis de datos.
 
 <hr>
 <p align="center">
