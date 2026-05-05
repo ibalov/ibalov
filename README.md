@@ -22,6 +22,8 @@ i=vscode,java,py,opencv,pytorch,tensorflow,anaconda,typescript,r,mysql,supabase,
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <hr>
 
 Algunos datos sonbre mi:
